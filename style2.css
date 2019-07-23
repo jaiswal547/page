@@ -1,0 +1,23 @@
+ 
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  h1 {
+     text-align:center;
+    color: rgb(231, 39, 39);
+    font-family: 'Marvel';
+ }
+
+ .vh{
+     height: 100vh;
+ }
+
+ .ft{
+     font-family: 'marvel';
+     color:rgb(236, 35, 35);
+ }
+
+ html {
+    scroll-behavior: smooth;
+  }
